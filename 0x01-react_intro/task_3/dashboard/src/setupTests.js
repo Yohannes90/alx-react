@@ -6,3 +6,4 @@ import '@testing-library/jest-dom';
 import Adapter from 'enzyme-adapter-react-17-updated';
 
 Enzyme.configure({ adapter: new Adapter() });
+
